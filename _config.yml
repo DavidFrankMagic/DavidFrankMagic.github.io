@@ -150,6 +150,7 @@ pages_list:
   About: 'about'
   # Blog: 'latest-post'
   # Timeline: 'timeline'
+  Photos: 'photos'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
