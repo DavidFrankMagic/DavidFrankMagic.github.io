@@ -3,16 +3,13 @@
 
 <section id="{{ page.section-type }}" class="container content-section text-left">
   <div class="row">
-    <div class="col-md-10 col-md-offset-1">
+    {{ page.content | markdownify }}
 
-      {{ page.content | markdownify }}
+    <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
 
-      <p>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    <p>Phone: <a href="tel:{{ site.phone }}">{{ site.phone }}</a></p>
 
-      <p>Phone: <a href="tel:{{ site.phone }}">{{ site.phone }}</a></p>
-
-      <script type="text/javascript" src="https://form.jotform.com/jsform/231614607423147"></script>
-    </div>
+    <script type="text/javascript" src="https://form.jotform.com/jsform/231614607423147"></script>
   </div>
 </section>
 

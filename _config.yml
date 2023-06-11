@@ -149,8 +149,6 @@ social:
 
 pages_list:
   About: 'about'
-  # Blog: 'latest-post'
-  # Timeline: 'timeline'
   Services: 'services'
   Book Now: 'contact'
 
