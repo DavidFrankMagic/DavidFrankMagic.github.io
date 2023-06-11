@@ -149,6 +149,9 @@ social:
 
 pages_list:
   About: 'about'
+  Images: 'gallery'
+  Affiliates: 'affiliates'
+  Testimonials: 'testimonials'
   Services: 'services'
   Book Now: 'contact'
 
