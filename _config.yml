@@ -124,7 +124,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "MISSING EMAIL"
+email: "davidfrankmagic@gmail.com"
 
 ##################
 # Social Buttons #
@@ -151,7 +151,7 @@ pages_list:
   # Blog: 'latest-post'
   # Timeline: 'timeline'
   Services: 'services'
-  Contact: 'contact'
+  Book Now: 'contact'
 
 # Exclusion list from the generated _site
 
